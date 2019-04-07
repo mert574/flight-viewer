@@ -9,4 +9,4 @@ Now you're ready to rumble!
 ### Notes:
 
 1. Configuration file: `app/config.js`
-2. You can check the demo [here](http://localhost)
+2. You can check the demo [HERE](https://flight-viewer.herokuapp.com/)
