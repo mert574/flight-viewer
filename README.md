@@ -5,3 +5,8 @@
     _At this point you can run `npm start` to see the flight-viewer app at `http://localhost:3000`._
 
 Now you're ready to rumble!
+
+### Notes:
+
+1. Configuration file: `app/config.js`
+2. You can check the demo [here](http://localhost)
